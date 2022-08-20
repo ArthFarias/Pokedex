@@ -1,4 +1,4 @@
-# POKEDEX
+<h1 align="center">POKEDEX</h1>
 
 Nome dos integrantes: 
 - Arthur Farias
